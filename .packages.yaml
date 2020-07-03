@@ -1,2 +1,10 @@
-some-component:
+"@ssen-temp/use-github-repos":
   version: 0.1.0
+  packageJson:
+    publishConfig:
+      access: public
+"@ssen-temp/github-user-repo":
+  version: 0.1.0
+  packageJson:
+    publishConfig:
+      access: public
